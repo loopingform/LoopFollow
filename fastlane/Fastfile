@@ -70,7 +70,7 @@ platform :ios do
       targets: ["LoopFollow"]
     )
 
-    gym(
+gym(
       export_method: "app-store",
       scheme: "LoopFollow",
       output_name: "LoopFollow.ipa",
